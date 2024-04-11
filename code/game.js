@@ -1,6 +1,6 @@
 const STUFF = getData('save', {
   money: 0,
-  upgrades: [0,0,0,0,0,0],
+  upgrades: [999,999,999,999,999],
   achievements: [],
   stats: {
     trampoline: 0,
